@@ -1,7 +1,4 @@
 # Ignore all .txt files
-.txt
-# Ignore all .pub files
-.pub
-# Ignore .gitignore
-.gitignore
-
+*.txt
+# Ignore all .pub filles
+*.pub
